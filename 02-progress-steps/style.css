@@ -22,6 +22,7 @@ body {
 .container {
   /* display: flex; */
   text-align: center;
+}
 
 .progress-container {
   display: flex;
